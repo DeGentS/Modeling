@@ -1,0 +1,14 @@
+{
+    "builtin": "False",
+    "default_enabled": "True",
+    "type": "extension",
+    "rocket_mode_compatible": "False",
+    "name": "ZIN_VMA",
+    "description": "Bimplan coordinatie",
+    "author": "Sean De Gent",
+    "author_profile": "https://github.com//DeGentS",
+    "url": "https://github.com/DeGentS/Coordinatie",
+    "website": "",
+    "image": "",
+    "dependencies": []
+}

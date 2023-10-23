@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0a8c3573-b0d9-46e3-9615-296d2be226a7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/BPL_MOD.extension/BPL_MOD.tab/model_info.panelx/worksharing.pushbutton/script.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BPL_MOD.extension/BPL_MOD.tab/modeling.panel/elementlevel.pushbutton/script.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BPL_MOD.extension/BPL_MOD.tab/parameter.panel/Room_to_BPLroom.pushbuttonx/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BPL_MOD.extension/BPL_MOD.tab/parameter.panel/Room_to_BPLroom.pushbuttonx/script.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BPL_MOD.extension/BPL_MOD.tab/parameter.panel/Room_to_Parameter.pushbutton/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BPL_MOD.extension/BPL_MOD.tab/parameter.panel/Room_to_Parameter.pushbutton/script.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BPL_MOD.extension/BPL_MOD.tab/parameter.panel/level to Mark.pushbutton/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BPL_MOD.extension/BPL_MOD.tab/parameter.panel/level to Mark.pushbutton/script.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2Wyfpqpam804P3iAJvcuNUOd2u0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/seand/OneDrive/Documenten/GitHub/Modeling/BPL_MOD.extension/BPL_MOD.tab/parameter.panel&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\seand\OneDrive\Documenten\GitHub\Modeling\BPL_MOD.extension\BPL_MOD.tab\parameter.panel" />
+      <recent name="C:\Users\seand\OneDrive\Documenten\GitHub\Modeling\BPL_MOD.extension\BPL_MOD.tab\parameter.panel\mark.stack" />
+      <recent name="C:\Users\seand\OneDrive\Documenten\GitHub\Modeling\BPL_MOD.extension\BPL_MOD.tab\modeling.panel" />
+      <recent name="C:\Users\seand\OneDrive\Documenten\GitHub\Modeling\BPL_MOD.extension\BPL_MOD.tab\parameter.tab" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\seand\OneDrive\Documenten\GitHub\Modeling\BPL_MOD.extension\BPL_MOD.tab\parameter.panel" />
+      <recent name="C:\Users\seand\OneDrive\Documenten\GitHub\Modeling\BPL_MOD.extension\BPL_MOD.tab\parameter.tab\mark.stack" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0a8c3573-b0d9-46e3-9615-296d2be226a7" name="Changes" comment="" />
+      <created>1697709926035</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1697709926035</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/BPL_MOD.extension/BPL_MOD.tab/modeling.panel/elementlevel.pushbutton/script.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
